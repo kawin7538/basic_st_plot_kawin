@@ -1,0 +1,101 @@
+---
+title: "A Brief data transformation and visualization"
+author: "Kawin Chinpong"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+This is a R markdown which were demonstrated some (maybe) useful information on how tabular transformation and basic visualization is.
+
+# Outline on this markdown
+
+Information on this markdown is consisted of the following sections
+
+- Library Loading
+- (incidence table) Data Loading
+- Data conversion from wide-format into long-format
+- Basic visualization
+
+# Library Loading
+
+In this chapter, `tidyverse` which also included `readr` for data preprocessing and `ggplot2` for visualization, and `rgdal` will be loaded for main data performing while `sf` is for map transformation. Library `DT` were only used for tabular visualization in R-markdown only, not necessary.
+
+```{r}
+library(tidyverse)
+library(rgdal)
+library(sf)
+library(DT)
+```
+
+# (incidence table) Data Loading
+
+Suppose we quarterly collected incidence count of a disease for 2 consecutive years. Original result data maybe gathered like the following table, read it using `read_csv` which were loaded from `readr`.
+
+```{r}
+df_wide<-read_csv("input/incidence_table_wide.csv")
+datatable(df_wide,caption="Quarter Incidence Table in Wide-format",options=list(pageLength=5,scrollX=TRUE))
+```
+
+Unfortunately, appropriate format should be like this following table.
+
+```{r}
+df_long<-read_csv("input/incidence_table_long.csv")
+datatable(df_long,caption="Quarter Incidence Table in Long-format",options=list(pageLength=5,scrollX=TRUE))
+```
+
+Therefore, data conversion should be early applied before visualization.
+
+# Data conversion
+
+Original table in wide-format can be transformed into long-format using `pivot_longer` loaded from `tidyr`. Essential arguments in this function is detailed as follow
+
+- `cols`: specific columns that should be melted, specify as vector of string, or pattern-based function such as `starts_with`, `ends_with`, `contains`.
+- `names_to`: speficy column name after melted down columns specified in `cols`
+- `values_to`: specify column name of values within columns specified in `cols` after melting process.
+
+```{r}
+df<-df_wide %>% pivot_longer(cols=c("q1","q2","q3","q4"),names_to = 'num_quarter', values_to = 'incidence_count')
+# df<-df %>% mutate(num_quarter=as.integer(str_remove_all(num_quarter,'q')))
+datatable(df,caption="Quarter Incidence Table in appropriate format",options=list(pageLength=5,scrollX=TRUE))
+```
+
+# Basic Visualization
+
+In this section, `df` which were appropriate format incidence data will be plot as Thailand map. Try to load shapefile retrieved from GADM.
+
+```{r}
+tha_map <- readOGR("input/gadm41_THA_shp",layer="gadm41_THA_1")
+datatable(tha_map@data,caption="Data retrieve from GADM",options=list(pageLength=5,scrollX=TRUE))
+```
+
+Next, try to merge map with incidence data with `sp::merge` and then convert to `sf` format
+
+```{r}
+tha_map_merge <- sp::merge(tha_map,df,by.x="NAME_1",by.y="area",duplicateGeoms=TRUE)
+tha_map_merge_sf <- st_as_sf(tha_map_merge)
+```
+
+Finally, try to plot using `ggplot` which simple settings were shown as afterward snippets.
+
+```{r}
+ggplot(tha_map_merge_sf) + geom_sf(aes(fill=incidence_count)) + facet_wrap(vars(year,num_quarter),dir="h",ncol=4)
+```
+
+and here is another customization.
+
+```{r}
+ggplot(tha_map_merge_sf) + geom_sf(aes(fill=incidence_count)) + facet_wrap(vars(year,num_quarter),dir="h",ncol=4)+ggtitle("Quarter Incidence Count")+theme_bw()+theme(axis.text.x=element_blank(),axis.text.y=element_blank(),axis.ticks=element_blank())+scale_fill_gradient2(low='green',mid='yellow',high='red',midpoint=1500)
+```
+
+Moreover, above visualization could be exported as image file.
+
+```{r}
+ggsave("output/result.png")
+```
+
+# Some references
+
+- https://readr.tidyverse.org/
+- https://tidyr.tidyverse.org/
+- https://cran.r-project.org/web/packages/rgdal/index.html
+- https://ggplot2.tidyverse.org/

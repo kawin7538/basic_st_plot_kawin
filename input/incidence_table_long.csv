@@ -1,0 +1,617 @@
+area,year,quarter,count
+Amnat Charoen,2019,q1,17
+Amnat Charoen,2019,q2,115
+Amnat Charoen,2019,q3,118
+Amnat Charoen,2019,q4,69
+Amnat Charoen,2020,q1,6
+Amnat Charoen,2020,q2,32
+Amnat Charoen,2020,q3,59
+Amnat Charoen,2020,q4,3
+Ang Thong,2019,q1,29
+Ang Thong,2019,q2,18
+Ang Thong,2019,q3,49
+Ang Thong,2019,q4,18
+Ang Thong,2020,q1,39
+Ang Thong,2020,q2,23
+Ang Thong,2020,q3,155
+Ang Thong,2020,q4,35
+Bangkok,2019,q1,1183
+Bangkok,2019,q2,649
+Bangkok,2019,q3,3017
+Bangkok,2019,q4,3741
+Bangkok,2020,q1,759
+Bangkok,2020,q2,310
+Bangkok,2020,q3,1512
+Bangkok,2020,q4,1324
+Bungkan,2019,q1,48
+Bungkan,2019,q2,500
+Bungkan,2019,q3,134
+Bungkan,2019,q4,0
+Bungkan,2020,q1,26
+Bungkan,2020,q2,291
+Bungkan,2020,q3,223
+Bungkan,2020,q4,7
+Buri Ram,2019,q1,241
+Buri Ram,2019,q2,535
+Buri Ram,2019,q3,1314
+Buri Ram,2019,q4,331
+Buri Ram,2020,q1,104
+Buri Ram,2020,q2,269
+Buri Ram,2020,q3,538
+Buri Ram,2020,q4,27
+Chachoengsao,2019,q1,142
+Chachoengsao,2019,q2,188
+Chachoengsao,2019,q3,275
+Chachoengsao,2019,q4,105
+Chachoengsao,2020,q1,20
+Chachoengsao,2020,q2,42
+Chachoengsao,2020,q3,62
+Chachoengsao,2020,q4,13
+Chai Nat,2019,q1,48
+Chai Nat,2019,q2,29
+Chai Nat,2019,q3,107
+Chai Nat,2019,q4,57
+Chai Nat,2020,q1,49
+Chai Nat,2020,q2,73
+Chai Nat,2020,q3,342
+Chai Nat,2020,q4,41
+Chaiyaphum,2019,q1,193
+Chaiyaphum,2019,q2,685
+Chaiyaphum,2019,q3,860
+Chaiyaphum,2019,q4,387
+Chaiyaphum,2020,q1,173
+Chaiyaphum,2020,q2,1039
+Chaiyaphum,2020,q3,698
+Chaiyaphum,2020,q4,10
+Chanthaburi,2019,q1,91
+Chanthaburi,2019,q2,578
+Chanthaburi,2019,q3,684
+Chanthaburi,2019,q4,155
+Chanthaburi,2020,q1,67
+Chanthaburi,2020,q2,316
+Chanthaburi,2020,q3,171
+Chanthaburi,2020,q4,34
+Chiang Mai,2019,q1,80
+Chiang Mai,2019,q2,318
+Chiang Mai,2019,q3,1578
+Chiang Mai,2019,q4,986
+Chiang Mai,2020,q1,86
+Chiang Mai,2020,q2,275
+Chiang Mai,2020,q3,1997
+Chiang Mai,2020,q4,382
+Chiang Rai,2019,q1,92
+Chiang Rai,2019,q2,538
+Chiang Rai,2019,q3,3188
+Chiang Rai,2019,q4,844
+Chiang Rai,2020,q1,81
+Chiang Rai,2020,q2,489
+Chiang Rai,2020,q3,811
+Chiang Rai,2020,q4,97
+Chon Buri,2019,q1,410
+Chon Buri,2019,q2,536
+Chon Buri,2019,q3,931
+Chon Buri,2019,q4,646
+Chon Buri,2020,q1,187
+Chon Buri,2020,q2,282
+Chon Buri,2020,q3,876
+Chon Buri,2020,q4,349
+Chumphon,2019,q1,99
+Chumphon,2019,q2,177
+Chumphon,2019,q3,173
+Chumphon,2019,q4,53
+Chumphon,2020,q1,27
+Chumphon,2020,q2,54
+Chumphon,2020,q3,88
+Chumphon,2020,q4,88
+Kalasin,2019,q1,62
+Kalasin,2019,q2,265
+Kalasin,2019,q3,484
+Kalasin,2019,q4,146
+Kalasin,2020,q1,71
+Kalasin,2020,q2,225
+Kalasin,2020,q3,286
+Kalasin,2020,q4,32
+Kamphaeng Phet,2019,q1,56
+Kamphaeng Phet,2019,q2,98
+Kamphaeng Phet,2019,q3,173
+Kamphaeng Phet,2019,q4,39
+Kamphaeng Phet,2020,q1,40
+Kamphaeng Phet,2020,q2,36
+Kamphaeng Phet,2020,q3,126
+Kamphaeng Phet,2020,q4,23
+Kanchanaburi,2019,q1,89
+Kanchanaburi,2019,q2,109
+Kanchanaburi,2019,q3,373
+Kanchanaburi,2019,q4,48
+Kanchanaburi,2020,q1,46
+Kanchanaburi,2020,q2,45
+Kanchanaburi,2020,q3,52
+Kanchanaburi,2020,q4,66
+Khon Kaen,2019,q1,307
+Khon Kaen,2019,q2,600
+Khon Kaen,2019,q3,944
+Khon Kaen,2019,q4,482
+Khon Kaen,2020,q1,283
+Khon Kaen,2020,q2,1022
+Khon Kaen,2020,q3,902
+Khon Kaen,2020,q4,44
+Krabi,2019,q1,62
+Krabi,2019,q2,92
+Krabi,2019,q3,93
+Krabi,2019,q4,42
+Krabi,2020,q1,14
+Krabi,2020,q2,43
+Krabi,2020,q3,45
+Krabi,2020,q4,18
+Lampang,2019,q1,37
+Lampang,2019,q2,148
+Lampang,2019,q3,461
+Lampang,2019,q4,53
+Lampang,2020,q1,4
+Lampang,2020,q2,170
+Lampang,2020,q3,582
+Lampang,2020,q4,65
+Lamphun,2019,q1,12
+Lamphun,2019,q2,25
+Lamphun,2019,q3,181
+Lamphun,2019,q4,52
+Lamphun,2020,q1,13
+Lamphun,2020,q2,29
+Lamphun,2020,q3,75
+Lamphun,2020,q4,26
+Loei,2019,q1,17
+Loei,2019,q2,439
+Loei,2019,q3,563
+Loei,2019,q4,169
+Loei,2020,q1,57
+Loei,2020,q2,350
+Loei,2020,q3,285
+Loei,2020,q4,10
+Lop Buri,2019,q1,345
+Lop Buri,2019,q2,153
+Lop Buri,2019,q3,230
+Lop Buri,2019,q4,145
+Lop Buri,2020,q1,48
+Lop Buri,2020,q2,79
+Lop Buri,2020,q3,471
+Lop Buri,2020,q4,85
+Mae Hong Son,2019,q1,13
+Mae Hong Son,2019,q2,37
+Mae Hong Son,2019,q3,206
+Mae Hong Son,2019,q4,94
+Mae Hong Son,2020,q1,13
+Mae Hong Son,2020,q2,256
+Mae Hong Son,2020,q3,927
+Mae Hong Son,2020,q4,203
+Maha Sarakham,2019,q1,77
+Maha Sarakham,2019,q2,120
+Maha Sarakham,2019,q3,443
+Maha Sarakham,2019,q4,141
+Maha Sarakham,2020,q1,68
+Maha Sarakham,2020,q2,307
+Maha Sarakham,2020,q3,501
+Maha Sarakham,2020,q4,19
+Mukdahan,2019,q1,53
+Mukdahan,2019,q2,346
+Mukdahan,2019,q3,219
+Mukdahan,2019,q4,16
+Mukdahan,2020,q1,15
+Mukdahan,2020,q2,127
+Mukdahan,2020,q3,215
+Mukdahan,2020,q4,7
+Nakhon Nayok,2019,q1,63
+Nakhon Nayok,2019,q2,97
+Nakhon Nayok,2019,q3,68
+Nakhon Nayok,2019,q4,56
+Nakhon Nayok,2020,q1,4
+Nakhon Nayok,2020,q2,20
+Nakhon Nayok,2020,q3,49
+Nakhon Nayok,2020,q4,17
+Nakhon Pathom,2019,q1,395
+Nakhon Pathom,2019,q2,122
+Nakhon Pathom,2019,q3,444
+Nakhon Pathom,2019,q4,470
+Nakhon Pathom,2020,q1,172
+Nakhon Pathom,2020,q2,63
+Nakhon Pathom,2020,q3,252
+Nakhon Pathom,2020,q4,182
+Nakhon Phanom,2019,q1,28
+Nakhon Phanom,2019,q2,457
+Nakhon Phanom,2019,q3,202
+Nakhon Phanom,2019,q4,19
+Nakhon Phanom,2020,q1,44
+Nakhon Phanom,2020,q2,184
+Nakhon Phanom,2020,q3,140
+Nakhon Phanom,2020,q4,9
+Nakhon Ratchasima,2019,q1,551
+Nakhon Ratchasima,2019,q2,2301
+Nakhon Ratchasima,2019,q3,2618
+Nakhon Ratchasima,2019,q4,1666
+Nakhon Ratchasima,2020,q1,497
+Nakhon Ratchasima,2020,q2,1474
+Nakhon Ratchasima,2020,q3,2320
+Nakhon Ratchasima,2020,q4,100
+Nakhon Sawan,2019,q1,297
+Nakhon Sawan,2019,q2,144
+Nakhon Sawan,2019,q3,370
+Nakhon Sawan,2019,q4,224
+Nakhon Sawan,2020,q1,98
+Nakhon Sawan,2020,q2,50
+Nakhon Sawan,2020,q3,503
+Nakhon Sawan,2020,q4,309
+Nakhon Si Thammarat,2019,q1,572
+Nakhon Si Thammarat,2019,q2,575
+Nakhon Si Thammarat,2019,q3,1203
+Nakhon Si Thammarat,2019,q4,743
+Nakhon Si Thammarat,2020,q1,254
+Nakhon Si Thammarat,2020,q2,173
+Nakhon Si Thammarat,2020,q3,247
+Nakhon Si Thammarat,2020,q4,48
+Nan,2019,q1,13
+Nan,2019,q2,103
+Nan,2019,q3,176
+Nan,2019,q4,73
+Nan,2020,q1,10
+Nan,2020,q2,90
+Nan,2020,q3,101
+Nan,2020,q4,22
+Narathiwat,2019,q1,73
+Narathiwat,2019,q2,107
+Narathiwat,2019,q3,270
+Narathiwat,2019,q4,171
+Narathiwat,2020,q1,50
+Narathiwat,2020,q2,19
+Narathiwat,2020,q3,95
+Narathiwat,2020,q4,36
+Nong Bua Lam Phu,2019,q1,14
+Nong Bua Lam Phu,2019,q2,88
+Nong Bua Lam Phu,2019,q3,127
+Nong Bua Lam Phu,2019,q4,39
+Nong Bua Lam Phu,2020,q1,20
+Nong Bua Lam Phu,2020,q2,67
+Nong Bua Lam Phu,2020,q3,60
+Nong Bua Lam Phu,2020,q4,1
+Nong Khai,2019,q1,37
+Nong Khai,2019,q2,134
+Nong Khai,2019,q3,256
+Nong Khai,2019,q4,101
+Nong Khai,2020,q1,27
+Nong Khai,2020,q2,151
+Nong Khai,2020,q3,234
+Nong Khai,2020,q4,10
+Nonthaburi,2019,q1,107
+Nonthaburi,2019,q2,59
+Nonthaburi,2019,q3,294
+Nonthaburi,2019,q4,277
+Nonthaburi,2020,q1,43
+Nonthaburi,2020,q2,36
+Nonthaburi,2020,q3,156
+Nonthaburi,2020,q4,166
+P.Nakhon S.Ayutthaya,2019,q1,78
+P.Nakhon S.Ayutthaya,2019,q2,44
+P.Nakhon S.Ayutthaya,2019,q3,100
+P.Nakhon S.Ayutthaya,2019,q4,95
+P.Nakhon S.Ayutthaya,2020,q1,37
+P.Nakhon S.Ayutthaya,2020,q2,29
+P.Nakhon S.Ayutthaya,2020,q3,162
+P.Nakhon S.Ayutthaya,2020,q4,48
+Pathum Thani,2019,q1,99
+Pathum Thani,2019,q2,36
+Pathum Thani,2019,q3,91
+Pathum Thani,2019,q4,111
+Pathum Thani,2020,q1,26
+Pathum Thani,2020,q2,24
+Pathum Thani,2020,q3,101
+Pathum Thani,2020,q4,61
+Pattani,2019,q1,107
+Pattani,2019,q2,121
+Pattani,2019,q3,214
+Pattani,2019,q4,121
+Pattani,2020,q1,48
+Pattani,2020,q2,31
+Pattani,2020,q3,88
+Pattani,2020,q4,20
+Phangnga,2019,q1,138
+Phangnga,2019,q2,248
+Phangnga,2019,q3,164
+Phangnga,2019,q4,72
+Phangnga,2020,q1,47
+Phangnga,2020,q2,149
+Phangnga,2020,q3,110
+Phangnga,2020,q4,21
+Phatthalung,2019,q1,76
+Phatthalung,2019,q2,145
+Phatthalung,2019,q3,188
+Phatthalung,2019,q4,0
+Phatthalung,2020,q1,0
+Phatthalung,2020,q2,0
+Phatthalung,2020,q3,0
+Phatthalung,2020,q4,0
+Phayao,2019,q1,5
+Phayao,2019,q2,91
+Phayao,2019,q3,187
+Phayao,2019,q4,26
+Phayao,2020,q1,10
+Phayao,2020,q2,53
+Phayao,2020,q3,116
+Phayao,2020,q4,8
+Phetchabun,2019,q1,32
+Phetchabun,2019,q2,263
+Phetchabun,2019,q3,352
+Phetchabun,2019,q4,63
+Phetchabun,2020,q1,38
+Phetchabun,2020,q2,179
+Phetchabun,2020,q3,360
+Phetchabun,2020,q4,32
+Phetchaburi,2019,q1,129
+Phetchaburi,2019,q2,94
+Phetchaburi,2019,q3,214
+Phetchaburi,2019,q4,211
+Phetchaburi,2020,q1,61
+Phetchaburi,2020,q2,37
+Phetchaburi,2020,q3,98
+Phetchaburi,2020,q4,62
+Phichit,2019,q1,53
+Phichit,2019,q2,34
+Phichit,2019,q3,81
+Phichit,2019,q4,44
+Phichit,2020,q1,38
+Phichit,2020,q2,45
+Phichit,2020,q3,133
+Phichit,2020,q4,52
+Phitsanulok,2019,q1,46
+Phitsanulok,2019,q2,74
+Phitsanulok,2019,q3,242
+Phitsanulok,2019,q4,124
+Phitsanulok,2020,q1,59
+Phitsanulok,2020,q2,146
+Phitsanulok,2020,q3,393
+Phitsanulok,2020,q4,79
+Phrae,2019,q1,15
+Phrae,2019,q2,81
+Phrae,2019,q3,223
+Phrae,2019,q4,38
+Phrae,2020,q1,7
+Phrae,2020,q2,17
+Phrae,2020,q3,130
+Phrae,2020,q4,10
+Phuket,2019,q1,62
+Phuket,2019,q2,45
+Phuket,2019,q3,66
+Phuket,2019,q4,64
+Phuket,2020,q1,29
+Phuket,2020,q2,33
+Phuket,2020,q3,31
+Phuket,2020,q4,6
+Prachin Buri,2019,q1,103
+Prachin Buri,2019,q2,230
+Prachin Buri,2019,q3,536
+Prachin Buri,2019,q4,121
+Prachin Buri,2020,q1,49
+Prachin Buri,2020,q2,109
+Prachin Buri,2020,q3,286
+Prachin Buri,2020,q4,29
+Prachuap Khiri Khan,2019,q1,58
+Prachuap Khiri Khan,2019,q2,96
+Prachuap Khiri Khan,2019,q3,71
+Prachuap Khiri Khan,2019,q4,50
+Prachuap Khiri Khan,2020,q1,17
+Prachuap Khiri Khan,2020,q2,13
+Prachuap Khiri Khan,2020,q3,36
+Prachuap Khiri Khan,2020,q4,30
+Ranong,2019,q1,42
+Ranong,2019,q2,74
+Ranong,2019,q3,45
+Ranong,2019,q4,12
+Ranong,2020,q1,15
+Ranong,2020,q2,52
+Ranong,2020,q3,37
+Ranong,2020,q4,20
+Ratchaburi,2019,q1,345
+Ratchaburi,2019,q2,171
+Ratchaburi,2019,q3,476
+Ratchaburi,2019,q4,401
+Ratchaburi,2020,q1,162
+Ratchaburi,2020,q2,137
+Ratchaburi,2020,q3,236
+Ratchaburi,2020,q4,66
+Rayong,2019,q1,162
+Rayong,2019,q2,395
+Rayong,2019,q3,792
+Rayong,2019,q4,450
+Rayong,2020,q1,198
+Rayong,2020,q2,523
+Rayong,2020,q3,882
+Rayong,2020,q4,205
+Roi Et,2019,q1,134
+Roi Et,2019,q2,701
+Roi Et,2019,q3,1066
+Roi Et,2019,q4,267
+Roi Et,2020,q1,90
+Roi Et,2020,q2,343
+Roi Et,2020,q3,465
+Roi Et,2020,q4,44
+Sa Kaeo,2019,q1,84
+Sa Kaeo,2019,q2,351
+Sa Kaeo,2019,q3,501
+Sa Kaeo,2019,q4,126
+Sa Kaeo,2020,q1,56
+Sa Kaeo,2020,q2,120
+Sa Kaeo,2020,q3,175
+Sa Kaeo,2020,q4,25
+Sakon Nakhon,2019,q1,28
+Sakon Nakhon,2019,q2,203
+Sakon Nakhon,2019,q3,160
+Sakon Nakhon,2019,q4,9
+Sakon Nakhon,2020,q1,11
+Sakon Nakhon,2020,q2,81
+Sakon Nakhon,2020,q3,57
+Sakon Nakhon,2020,q4,5
+Samut Prakan,2019,q1,159
+Samut Prakan,2019,q2,54
+Samut Prakan,2019,q3,210
+Samut Prakan,2019,q4,328
+Samut Prakan,2020,q1,124
+Samut Prakan,2020,q2,46
+Samut Prakan,2020,q3,206
+Samut Prakan,2020,q4,119
+Samut Sakhon,2019,q1,330
+Samut Sakhon,2019,q2,104
+Samut Sakhon,2019,q3,240
+Samut Sakhon,2019,q4,243
+Samut Sakhon,2020,q1,101
+Samut Sakhon,2020,q2,56
+Samut Sakhon,2020,q3,122
+Samut Sakhon,2020,q4,57
+Samut Songkhram,2019,q1,12
+Samut Songkhram,2019,q2,5
+Samut Songkhram,2019,q3,80
+Samut Songkhram,2019,q4,99
+Samut Songkhram,2020,q1,24
+Samut Songkhram,2020,q2,12
+Samut Songkhram,2020,q3,15
+Samut Songkhram,2020,q4,12
+Saraburi,2019,q1,70
+Saraburi,2019,q2,50
+Saraburi,2019,q3,265
+Saraburi,2019,q4,134
+Saraburi,2020,q1,22
+Saraburi,2020,q2,66
+Saraburi,2020,q3,160
+Saraburi,2020,q4,43
+Satun,2019,q1,15
+Satun,2019,q2,22
+Satun,2019,q3,42
+Satun,2019,q4,5
+Satun,2020,q1,3
+Satun,2020,q2,10
+Satun,2020,q3,13
+Satun,2020,q4,1
+Si Sa Ket,2019,q1,167
+Si Sa Ket,2019,q2,657
+Si Sa Ket,2019,q3,897
+Si Sa Ket,2019,q4,253
+Si Sa Ket,2020,q1,77
+Si Sa Ket,2020,q2,201
+Si Sa Ket,2020,q3,435
+Si Sa Ket,2020,q4,77
+Sing Buri,2019,q1,39
+Sing Buri,2019,q2,49
+Sing Buri,2019,q3,47
+Sing Buri,2019,q4,12
+Sing Buri,2020,q1,29
+Sing Buri,2020,q2,43
+Sing Buri,2020,q3,183
+Sing Buri,2020,q4,2
+Songkhla,2019,q1,240
+Songkhla,2019,q2,366
+Songkhla,2019,q3,625
+Songkhla,2019,q4,460
+Songkhla,2020,q1,148
+Songkhla,2020,q2,171
+Songkhla,2020,q3,225
+Songkhla,2020,q4,84
+Sukhothai,2019,q1,97
+Sukhothai,2019,q2,79
+Sukhothai,2019,q3,203
+Sukhothai,2019,q4,56
+Sukhothai,2020,q1,23
+Sukhothai,2020,q2,75
+Sukhothai,2020,q3,382
+Sukhothai,2020,q4,75
+Suphan Buri,2019,q1,74
+Suphan Buri,2019,q2,32
+Suphan Buri,2019,q3,81
+Suphan Buri,2019,q4,121
+Suphan Buri,2020,q1,58
+Suphan Buri,2020,q2,44
+Suphan Buri,2020,q3,152
+Suphan Buri,2020,q4,134
+Surat Thani,2019,q1,114
+Surat Thani,2019,q2,76
+Surat Thani,2019,q3,184
+Surat Thani,2019,q4,112
+Surat Thani,2020,q1,73
+Surat Thani,2020,q2,104
+Surat Thani,2020,q3,144
+Surat Thani,2020,q4,28
+Surin,2019,q1,204
+Surin,2019,q2,705
+Surin,2019,q3,1357
+Surin,2019,q4,390
+Surin,2020,q1,109
+Surin,2020,q2,296
+Surin,2020,q3,1220
+Surin,2020,q4,182
+Tak,2019,q1,56
+Tak,2019,q2,225
+Tak,2019,q3,523
+Tak,2019,q4,132
+Tak,2020,q1,37
+Tak,2020,q2,102
+Tak,2020,q3,296
+Tak,2020,q4,80
+Trang,2019,q1,42
+Trang,2019,q2,88
+Trang,2019,q3,134
+Trang,2019,q4,26
+Trang,2020,q1,16
+Trang,2020,q2,35
+Trang,2020,q3,56
+Trang,2020,q4,13
+Trat,2019,q1,69
+Trat,2019,q2,282
+Trat,2019,q3,109
+Trat,2019,q4,35
+Trat,2020,q1,29
+Trat,2020,q2,35
+Trat,2020,q3,87
+Trat,2020,q4,11
+Ubon Ratchathani,2019,q1,393
+Ubon Ratchathani,2019,q2,2749
+Ubon Ratchathani,2019,q3,2562
+Ubon Ratchathani,2019,q4,369
+Ubon Ratchathani,2020,q1,259
+Ubon Ratchathani,2020,q2,772
+Ubon Ratchathani,2020,q3,918
+Ubon Ratchathani,2020,q4,109
+Udon Thani,2019,q1,156
+Udon Thani,2019,q2,404
+Udon Thani,2019,q3,554
+Udon Thani,2019,q4,53
+Udon Thani,2020,q1,34
+Udon Thani,2020,q2,70
+Udon Thani,2020,q3,529
+Udon Thani,2020,q4,24
+Uthai Thani,2019,q1,50
+Uthai Thani,2019,q2,67
+Uthai Thani,2019,q3,177
+Uthai Thani,2019,q4,81
+Uthai Thani,2020,q1,31
+Uthai Thani,2020,q2,18
+Uthai Thani,2020,q3,115
+Uthai Thani,2020,q4,24
+Uttaradit,2019,q1,27
+Uttaradit,2019,q2,145
+Uttaradit,2019,q3,292
+Uttaradit,2019,q4,75
+Uttaradit,2020,q1,28
+Uttaradit,2020,q2,123
+Uttaradit,2020,q3,329
+Uttaradit,2020,q4,73
+Yala,2019,q1,131
+Yala,2019,q2,271
+Yala,2019,q3,377
+Yala,2019,q4,135
+Yala,2020,q1,56
+Yala,2020,q2,63
+Yala,2020,q3,122
+Yala,2020,q4,36
+Yasothon,2019,q1,64
+Yasothon,2019,q2,182
+Yasothon,2019,q3,203
+Yasothon,2019,q4,75
+Yasothon,2020,q1,32
+Yasothon,2020,q2,51
+Yasothon,2020,q3,129
+Yasothon,2020,q4,14
